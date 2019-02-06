@@ -1,0 +1,16 @@
+PODS:
+  - SwiftKeychainWrapper (3.2.0)
+
+DEPENDENCIES:
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+
+PODFILE CHECKSUM: 445658f877a450d0590f227a90e8d68b6aca4b89
+
+COCOAPODS: 1.5.3
